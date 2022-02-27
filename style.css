@@ -1,4 +1,17 @@
 .grid {
     display: grid;
+    max-width: 960px;
+    max-height: 960px;
 }
 
+#grid1 {
+    border-style: solid;
+}
+
+.black {
+    background-color: black; 
+}
+
+.normal {
+    background-color: white;
+}
