@@ -12,6 +12,14 @@
     background-color: black; 
 }
 
+.rojo {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
 .normal {
     background-color: white;
 }
