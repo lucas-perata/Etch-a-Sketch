@@ -143,4 +143,4 @@ function eleccionG(){
 //     }
 // }
 
-
+eleccionG()
